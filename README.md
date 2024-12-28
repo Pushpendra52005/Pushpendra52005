@@ -13,7 +13,7 @@ I'm Pushpendra Maurya, a passionate data scientist and Student of VijAI Robotics
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=flat-square&logo=tensorflow)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 - ![Coder GIF](https://raw.githubusercontent.com/Pushpendra52005/Pushpendra52005/main/assets/coding.gif)
-- ![Banner](https://raw.githubusercontent.com/Pushpendra52005/Pushpendra52005/main/assets/banner.png)
+
 
 
 🏆 **Certifications:**  
