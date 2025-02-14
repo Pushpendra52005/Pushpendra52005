@@ -5,7 +5,7 @@ I'm Pushpendra Maurya, a passionate data scientist and Student of VijAI Robotics
 - 📫 Reach me: pushpendramaurya143654@gmail.com
 - 🚀 Transforming Ideas into AI-Powered Solutions 🌟
 
-- ![Pushpendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushpendra52005&show_icons=true&theme=radical)
+- -![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pushpendra52005&theme=dracula)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpendra52005&layout=compact&theme=radical)
 
 
